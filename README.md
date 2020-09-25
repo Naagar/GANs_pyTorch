@@ -1,6 +1,7 @@
 # GANs_pyTorch
 
-### Generative Adversarial Network
+### DC Generative Adversarial Network
+  [paper](https://arxiv.org/pdf/1511.06434.pdf)
 #### Dataset :- MNIST
   DCGAN.py: main file and training network
 
