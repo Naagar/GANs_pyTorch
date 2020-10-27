@@ -1,4 +1,4 @@
-# GANs_pyTorch(Implementation of Glow paper in PyTprch)
+# GANs_pyTorch(Implementation of Glow paper in PyTorch)
 
 ### DC Generative Adversarial Network
   you can look in this [paper](https://arxiv.org/pdf/1511.06434.pdf)
